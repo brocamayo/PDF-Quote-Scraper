@@ -47,10 +47,11 @@ The output files will contain the following columns:
 ## Example Output
 
 ```
-source_file          part_number      description                           quantity  price
-Quote_P034697.pdf    F7300K-ZNC       REAR HITCH, CLR ZINC                  4.0       139.45
-Quote_P034697.pdf    F7300H-ZNC       REAR HITCH, CLR ZINC                  16.0      130.95
-Quote_P034697.pdf    F518525ASM-C     TOW BAR, EXT. W/BRAKE ASM, CUS        4.0       373.35
+| source_file | part_number | description | quantity | price |
+| --- | --- | --- | --- | --- |
+| Quote_P034697.pdf | F7401K-ZN | REAR RECEIVER HITCH, CLR ZN | 4.0 | 139.45 |
+| Quote_P034697.pdf | F7401H-ZN | REAR RECEIVER HITCH, CLR ZN | 16.0 | 130.95 |
+| Quote_P034697.pdf | F518540ASM-D | TOW BAR EXT, W/ BRAKE KIT, CUST | 4.0 | 373. |
 ```
 
 ## Troubleshooting
